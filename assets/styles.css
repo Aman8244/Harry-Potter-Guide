@@ -1,0 +1,83 @@
+.index{
+    background-image: url('background.webp');
+}
+#guide{
+    font-size: 1rem;
+    color:#740001;
+}
+.nav{
+    padding: 1%;
+}
+.index-page{
+    margin-top: 3%;
+}
+.title{
+    font-size: 3.5rem;
+    font-family: serif;
+    color:#740001;
+    margin-left: 35%;
+    font-weight: 500;
+}
+.card-img-top{
+    height: 15rem;
+}
+.first-row{
+    margin: 1.5%;
+    
+}
+.sec-row{
+    margin: 8%;
+}
+.card-text{
+    font-family: Montserrat,sans-serif;
+}
+h3{
+    font-family: serif;
+}
+/* book page styling */
+.title2{
+    font-size: 2rem;
+    font-family: serif;
+    color:#740001;
+    margin-left: 35%;
+    font-weight: 500;
+}
+.books{
+    background-image: url('book-background.webp');
+}
+.books-card{
+    text-align: center;
+    color: goldenrod;
+    font-size: 1rem;
+    margin:6%;
+}
+.card-title{
+    font-family: sans-serif;
+}
+
+/* character page styling */
+
+.input{
+    height: 2rem;
+    padding: 3px;
+    margin-left: 39%;
+    margin-top: 2%;
+    margin-right: 5px;
+}
+.characters{
+    background-image: url('character-background.webp');
+}
+.char-cards{
+    margin: 1.5%;
+}
+/*wands page styling */
+.wands{
+    background-image: linear-gradient(45deg,#2a623d,#aaaaaa);
+}
+/*houses page styling */
+.house-card{
+    margin: 4%;
+}
+.houses{
+    background-image: url('species.jpg');
+}
